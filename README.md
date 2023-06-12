@@ -1,4 +1,4 @@
-# ChatAI
+# ChatAI 應用程式支持訊息
 ChatAI介紹 (ios、android App)
 本款App以人工智慧為基礎，能夠理解並生成自然語言。您可以與App進行對話，提出問題、尋求建議，並獲得智能回復和指導。
 
